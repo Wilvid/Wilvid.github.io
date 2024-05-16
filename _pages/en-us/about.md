@@ -20,8 +20,19 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/multi-language-al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+La primera se desespera
+Se encojona si sé lo hecho afuera
+La segunda tiene la funda
+Y me paga pa' que se lo hunda
+La tercera me quita el estré'
+Polvo' corrido' siempre echamo' tre'
+A la cuenta de una le bajo la luna
+Pero ella quiere con Maluma y conmigo a la ve'
+Estoy enamora'o de la' cuatro
+Siempre la' busco despué' de la' cuatro
+A la' cuatro le' encanta en cuatro
+Y yo nunca fallo como el veinticuatro
+De lo' Lakers siempre en la gorra
+De chingar ninguna se enzorra
+Estoy metío en un lío, ya estoy confundío
+Porque ninguna de mi mente se borra
